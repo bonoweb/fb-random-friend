@@ -1,0 +1,43 @@
+body{
+   font-family: Arial, sans-serif;
+   color: #000000;
+   background-color: #ADD8E6;
+   text-align:center;
+}
+
+ul{
+   font-weight: bold;
+}
+.desc{
+   font-style: italic;
+   font-weight: normal;
+}
+
+#form{
+   position:relative;
+   background-color: #A0D0E0;
+   font: 20px Arial, Helvetica, sans-serif;
+   color: #000000;
+   width: 300px;
+   left:50%;
+   margin-left:-150px;
+}
+#form input{
+   color: #0000CC;
+}
+#data{
+   position:relative;
+   background-color: #A0D0E0;
+   width: 300px;
+   height: 200px;
+   text-align:center;
+   left:50%;
+   margin-left:-150px;
+   top:0px;
+}
+
+.alert{
+   color:303030;
+   font-size:11px;
+   font-style:italic;
+}
